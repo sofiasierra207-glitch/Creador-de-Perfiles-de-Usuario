@@ -1,4 +1,4 @@
-// Ayuda a recopilar loscy ipos de Variables
+// Ayuda a recopilar las constantes y tipos de variables
 const nombre = prompt("Ingresa tu nombre completo porfavor:"); //Se usa const porque el nombre de la persona no se puede cambiar 
 
 // Se usa let porque la edad si puede cambiar
